@@ -158,8 +158,3 @@ export const STATS = [
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  { quote: "A completed-operations claim came in 3 years after a reroof job — the homeowner alleged water intrusion from improper flashing. Our policy was structured with the right completed-ops tail and the claim was defended without a gap. This agency knows roofing coverage.", name: "Marcus D.", role: "Roofing Contractor", location: "Texas" },
-  { quote: "We had a crew member fall from a second-story roof and break his arm. Workers' comp was structured correctly for roofing class codes so the claim was handled without dispute and he got care fast. These guys understand roofing.", name: "Sandra K.", role: "Operations Manager", location: "Florida" },
-  { quote: "Our tools trailer got broken into at a job site — nail guns, compressors, generators, all gone. The inland marine claim was paid within a week. Having tools coverage that actually covers theft off-premises made all the difference.", name: "Joel R.", role: "Owner-Operator", location: "Ohio" },
-] as const;
