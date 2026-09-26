@@ -51,11 +51,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth. A real conversation, real markets, and a program you can actually understand — built around your roofing operation, crew size, and project types.",
   },
-  testimonials: {
-    eyebrow: "From roofing contractors",
-    h2Lead: "Roofers who found",
-    h2Highlight: "coverage that actually pays",
-  },
   finalCta: {
     h2Lead: "Protect Your Roofing Business",
     h2Highlight: "with coverage built for the trade.",
@@ -131,7 +126,7 @@ export const COPY = {
     lead: "Tell us about your roofing operation. We'll shop A-rated specialty contractor markets and come back with real quotes in about 15 minutes — no obligation.",
     businessPlaceholder: "Summit Roofing LLC",
     emailPlaceholder: "mike@summitroofing.com",
-    phonePlaceholder: "(214) 555-0100",
+    phonePlaceholder: "Best number to reach you",
     messagePlaceholder:
       "Number of crews, payroll, annual revenue, residential vs. commercial mix, states you work in, current coverage, loss history, or anything else that helps us quote accurately…",
     errorMessage: "Something went wrong. Please call us at 844-967-5247 or try again.",
